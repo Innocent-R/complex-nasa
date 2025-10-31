@@ -1,6 +1,6 @@
 Project: Complex NASA API
 
-This complex NASA API consists of the weather api and also api that has NASA data. It shows the facility information, weather and the location
+This project integrates multiple NASA APIs, including a weather API and a data API, to display facility information, weather conditions, and location details.
 
 How It's Made:
 Tech used: HTML, CSS, and JavaScript
