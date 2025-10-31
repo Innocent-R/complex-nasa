@@ -1,6 +1,6 @@
 Project: Complex NASA API
 
-This complex NASA API consists of the weather api and the api that has NASA data. It is shows the facility information, weather and the location
+This complex NASA API consists of the weather api and also api that has NASA data. It shows the facility information, weather and the location
 
 How It's Made:
 Tech used: HTML, CSS, and JavaScript
@@ -9,3 +9,5 @@ Lessons Learned:
 While working on this conplext nasa api project, I learned how to effectively wranble and transform complex datasets. I also gained understanding of how to integrate with external APIs.
 
 <img width="907" height="523" alt="complex nasa" src="https://github.com/user-attachments/assets/234fa960-1ead-473d-849d-4046ed6b5849" />
+
+Find the live project here https://innocent-r.github.io/complex-nasa/
